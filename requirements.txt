@@ -1,0 +1,8 @@
+# Dependencies can be added here
+# To learn the format of this file, check https://pip.pypa.io/en/stable/reference/requirements-file-format/
+
+# Example dependencies are added below:
+
+# flask == 2.2.2
+# requests == 2.28.1
+kivy
