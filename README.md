@@ -6,7 +6,7 @@ This project is a simple calculator app developed using the Kivy framework in Py
 
 ## Live Project
 
-Access the live calculator app on [Python Sandbox](https://pythonsandbox.dev/tqni8f7z28pw).
+Access the live calculator app on [Python Sandbox](https://pythonsandbox.dev/tqni8f7z28pw). Click the Run button to render it from the container!
 
 ## Features
 
