@@ -5,3 +5,4 @@
 # Add button styling for equals operator 32306
 # Patch minor bug in key bindings 26683
 # Patch minor bug in key bindings 1621
+# Add comments to clarify Kivy structure 19119
