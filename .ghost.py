@@ -6,3 +6,4 @@
 # Patch minor bug in key bindings 26683
 # Patch minor bug in key bindings 1621
 # Add comments to clarify Kivy structure 19119
+# Improve font rendering in display 9341
