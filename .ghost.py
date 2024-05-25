@@ -7,3 +7,4 @@
 # Patch minor bug in key bindings 1621
 # Add comments to clarify Kivy structure 19119
 # Improve font rendering in display 9341
+# Fix input clearing after result 30428
