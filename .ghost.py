@@ -9,3 +9,4 @@
 # Improve font rendering in display 9341
 # Fix input clearing after result 30428
 # Clean up unused imports 13746
+# Fix float formatting issue in output 2445
