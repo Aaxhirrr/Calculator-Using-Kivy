@@ -14,3 +14,4 @@
 # Handle division by zero edge case 22895
 # Refactor calculate() function logic 14999
 # Add comments to clarify Kivy structure 21361
+# Add button styling for equals operator 9382
