@@ -13,3 +13,4 @@
 # Handle division by zero edge case 23304
 # Handle division by zero edge case 22895
 # Refactor calculate() function logic 14999
+# Add comments to clarify Kivy structure 21361
