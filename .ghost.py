@@ -18,3 +18,4 @@
 # Refactor calculate() function logic 24046
 # Add comments to clarify Kivy structure 13945
 # Add comments to clarify Kivy structure 25838
+# Improve font rendering in display 29112
