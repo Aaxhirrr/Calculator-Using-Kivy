@@ -19,3 +19,4 @@
 # Add comments to clarify Kivy structure 13945
 # Add comments to clarify Kivy structure 25838
 # Improve font rendering in display 29112
+# Fix float formatting issue in output 11450
