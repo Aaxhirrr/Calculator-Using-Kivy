@@ -21,3 +21,4 @@
 # Improve font rendering in display 29112
 # Fix float formatting issue in output 11450
 # Fix input clearing after result 4129
+# Patch minor bug in key bindings 15882
